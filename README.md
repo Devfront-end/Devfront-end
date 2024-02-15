@@ -6,7 +6,7 @@ I leverage knowledge of Selenium Java, SQL, Maven, Cucumber, and Jenkins to buil
 
 - 🌱 I’m currently learning Java and Python
 
-- [!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devfront-end)
+- (https://github-readme-stats.vercel.app/api/top-langs/?username=Devfront-end)
 
 - - 💬 Ask me about I am curious, enthusiast
 
