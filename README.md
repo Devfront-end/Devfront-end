@@ -8,7 +8,7 @@ I leverage knowledge of Selenium Java, SQL, Maven, Cucumber, and Jenkins to buil
 
 - 🌱 I’m currently learning Java and Python
 
-- 💬 Ask me about I am curious, enthusiast
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devfront-end)](https://github.com/anuraghazra/github-readme-stats)
 
