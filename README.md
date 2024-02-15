@@ -9,10 +9,12 @@ I leverage knowledge of Selenium Java, SQL, Maven, Cucumber, and Jenkins to buil
 - - 💬 Ask me about I am curious, enthusiast
 
 
-  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://jules.hashnode.dev/)
+
   - 
  
-  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devfront-end) 
+  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devfront-end)
+ 
+  -   - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://jules.hashnode.dev/)
 <!--
 **Devfront-end/Devfront-end** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
