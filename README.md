@@ -17,7 +17,6 @@ I leverage knowledge of Selenium Java, SQL, Maven, Cucumber, and Jenkins to buil
   
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://jules.hashnode.dev/)
 
-- 📫 How to reach me: Linkedin 
 <!--
 **Devfront-end/Devfront-end** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
