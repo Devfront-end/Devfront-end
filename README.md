@@ -8,6 +8,8 @@ From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 
 ![Jules's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devfront-end&theme=dark&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devfront-end&layout=donut-vertical)](https://github.com/Devfront-end/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devfront-end&hide_progress=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devfront-end&layout=donut-vertical)](https://github.com/Devfront-end/github-readme-stats)
