@@ -6,6 +6,8 @@ From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 
 - 🌱 I’m currently learning various technologies...
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devfront-end&show_icons=true&theme=radical)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devfront-end&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
