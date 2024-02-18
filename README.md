@@ -12,6 +12,8 @@ From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 - ⚡ Fun fact: Writing
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://jules.hashnode.dev/) my blog
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devfront-end&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devfront-end&size_weight=0.5&count_weight=0.5)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devfront-end&layout=pie)](https://github.com/Devfront-end/github-readme-stats)
