@@ -4,7 +4,7 @@
 
 From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 
-- 🌱 I’m currently learning various technologies...
+- 🌱 I’m currently learning Python and Java
 - ❤️  Innovative technologies such as chatGPT, Gemini, Perplexity
 - 🧰 ([My software tester's tools](https://jobchaser-roadmap.notion.site/My-tester-s-toolbox-6d1233310ca54a23917822f038a2235e?pvs=4))
 - 👯 I’m looking to collaborate on Software testing projects
