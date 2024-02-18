@@ -6,7 +6,7 @@ From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 
 - 🌱 I’m currently learning various technologies...
 - ⚡ Fun fact: Writing
-- 📫 How to reach me: Linkedin 
+- 👯 I’m looking to collaborate on Software testing 
 
 ![Jules's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devfront-end&theme=dark&show_icons=true)
 
