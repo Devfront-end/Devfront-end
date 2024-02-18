@@ -9,6 +9,8 @@ From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devfront-end&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Devfront-end/github-readme-stats)
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://jules.hashnode.dev/)
 
