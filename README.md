@@ -8,7 +8,7 @@ From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 - ❤️  Innovative technologies such as chatGPT, Gemini, Perplexity
 - 👯 I’m looking to collaborate on Software testing projects
 - 🖥️ I always love to learn, discover new things
-- - ⚡ Fun fact: Writing
+- ⚡ Fun fact: Writing
 
 ![Jules's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devfront-end&theme=dark&show_icons=true)
 
