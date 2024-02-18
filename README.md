@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jules
 
-#### I am Tester with a front-end developer background
+#### I am a Software Tester with a front-end developer background
 
 From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 
