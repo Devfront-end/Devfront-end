@@ -10,7 +10,6 @@ From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 - 👯 I’m looking to collaborate on Software testing projects
 - 🖥️ I always love to learn, discover new things
 - ⚡ Fun fact: Writing
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://jules.hashnode.dev/) my blog
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devfront-end&show_icons=true&theme=dark)
 
