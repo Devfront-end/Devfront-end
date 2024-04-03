@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Jules
 
-![github](https://www.canva.com/design/DAF_ftZ8d0w/ydOt032FuxoQ57kfeYLfGw/watch?utm_content=DAF_ftZ8d0w&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
-
 #### I am a front-end developer with Software Testing skills
 
 From pixels to performance, I bridge the gap: Front-end dev & QA in one.
