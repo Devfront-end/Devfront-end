@@ -1,4 +1,4 @@
-![github](https://github.com/Devfront-end/Devfront-end/blob/main/banner.png)
+![github]()
 
 ### Hi there 👋, my name is Jules
 
