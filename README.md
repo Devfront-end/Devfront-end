@@ -8,7 +8,7 @@ From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 
 - 🌱 I’m currently learning Python/Django and Swift 
 - ❤️  Innovative technologies such as chatGPT, Gemini, Perplexity
-- 👯 I’m looking to collaborate on Software testing projects
+- 👯 I’m looking to collaborate on creating web and mobile applications
 - 🖥️ I always love to learn, discover new things
 - ⚡ Fun fact: Writing
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://jules.hashnode.dev/)  My blog
