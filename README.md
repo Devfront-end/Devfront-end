@@ -7,7 +7,7 @@
 From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 
 - 🌱 I’m currently learning Python/Django and Swift 
-- ❤️  Innovative technologies such as chatGPT, Gemini, Perplexity
+- ❤️  Innovative technologies such as AI
 - 👯 I’m looking to collaborate on creating web and mobile applications
 - 🖥️ I always love to learn, discover new things
 - ⚡ Fun fact: Writing
