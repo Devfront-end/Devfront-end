@@ -1,3 +1,6 @@
+![github](https://github.com/Devfront-end/Devfront-end/blob/main/banner.png)
+
+https://github.com/Devfront-end/Devfront-end/blob/main/banner.png
 ### Hi there 👋, my name is Jules
 
 #### I am a front-end developer with Software Testing skills
