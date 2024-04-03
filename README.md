@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 my name is Jules
+
+#### I am a Front-end Developer with skills in software testing
 
 <!--
 **Devfront-end/Devfront-end** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
