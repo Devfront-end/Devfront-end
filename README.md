@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Jules
 
-#### I am a front-end developer with Software Testing skills
+#### I am a Front-end developer with Software Testing skills
 
 From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 
