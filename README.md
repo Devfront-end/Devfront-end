@@ -17,7 +17,7 @@ From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 
 [![Devfront-end's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Devfront-end&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Devfront-end/github-readme-stats#gh-dark-mode-only)
 
-([link](https://show-must-go-on.bubbleapps.io/version-test?debug_mode=true))
+[link](https://show-must-go-on.bubbleapps.io/version-test?debug_mode=true)
 
 <!--
 **Devfront-end/Devfront-end** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
