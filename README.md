@@ -6,7 +6,7 @@
 
 From pixels to performance, I bridge the gap: Front-end dev & QA in one.
 
-- 🌱 I’m currently learning Python/Django and Swift 
+- 🌱 I’m currently learning ReactJS, Python
 - ❤️  Innovative technologies such as AI
 - 👯 I’m looking to collaborate on creating web and mobile applications
 - 🖥️ I always love to learn, discover new things
